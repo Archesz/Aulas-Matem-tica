@@ -17,6 +17,10 @@ O repositório está estruturado da seguinte forma:
 - **Projetos**: Esta seção é dedicada a projetos de matemática, que visam aplicar os conceitos aprendidos de forma prática e criativa.
 - **Contribuições**: Se você deseja contribuir com este repositório, sinta-se à vontade para abrir um problema, sugerir melhorias ou enviar um pull request.
 
+## Fluxo
+1. Lógica;
+2. Conjuntos;
+
 ## Como Contribuir
 
 Se você gostaria de contribuir com este repositório, você pode:
